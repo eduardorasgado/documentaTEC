@@ -3,5 +3,5 @@ Sistema de gestión de actividades de personal adminstrativo de instituciones ed
  ## Proyecto maestro
 [Github de Asignador de Residencias profesionales](https://github.com/eduardorasgado/ITISTMO-AsignadorDeResidenciasProfesionales)
 ## Desarrollado para:
-[Instituto Tecnológico del Istmo](http://http://itistmo.mx/)
+[Instituto Tecnológico del Istmo](http://itistmo.mx/)
 
